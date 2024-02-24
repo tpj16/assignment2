@@ -1,0 +1,25 @@
+Date I went through Git Lab Tutorials: 2/22/24
+Date I Setup my GitHub Account: 2/23/24
+Link to my GitHub Repo: https://github.com/tpj16/assignment2
+
+1.) Enumerating objects: 9, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (7/7), 778 bytes | 778.00 KiB/s, done.
+Total 7 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 1 local object.
+To https://github.com/tpj16/assignment2.git
+   f4975e5..1ce7c2a  master -> master
+
+2.) 9, git rev-list --count --all, git shortlog
+
+3.) 2024-02-23 22:55:44 -0500, git log -1 --pretty="format:%ci" README.md
+
+4.) Branches help organize workflow in a repository, Branches are useful to try new things without risking
+the codebase.
+
+5.) git status shows any files that have been created/modified/deleted in the current working directory, while git log
+shows the commit history for the current branch youre working in.
+
+6.)
